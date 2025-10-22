@@ -1,3 +1,5 @@
+THIS REPO SHOULD BE DELETED
+
 # Fabric Plugin for Cordova
 [![Backers on Open Collective](https://opencollective.com/FabricPlugin/backers/badge.svg)](#backers)
  [![Sponsors on Open Collective](https://opencollective.com/FabricPlugin/sponsors/badge.svg)](#sponsors) 
